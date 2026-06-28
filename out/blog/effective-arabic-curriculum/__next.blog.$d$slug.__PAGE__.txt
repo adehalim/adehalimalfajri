@@ -1,0 +1,49 @@
+1:"$Sreact.fragment"
+2:I[7988,["/_next/static/chunks/2s53ts6g9wnnu.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0cqebdtwrio-t.js","/_next/static/chunks/0r7_wx-2rcz94.js"],"Navbar"]
+3:I[73395,["/_next/static/chunks/2s53ts6g9wnnu.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0cqebdtwrio-t.js","/_next/static/chunks/0r7_wx-2rcz94.js"],"ArticleDetail"]
+5:I[87392,["/_next/static/chunks/2s53ts6g9wnnu.js","/_next/static/chunks/14mrh2-p_w84d.js","/_next/static/chunks/0cqebdtwrio-t.js","/_next/static/chunks/0r7_wx-2rcz94.js"],"Footer"]
+6:I[97367,["/_next/static/chunks/2s53ts6g9wnnu.js","/_next/static/chunks/14mrh2-p_w84d.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+4:T441,
+## Introduction
+
+Designing an effective Arabic curriculum requires balancing traditional pedagogical approaches with modern educational needs. This article presents a framework for developing curricula that serve contemporary learners.
+
+## Understanding Modern Learners
+
+Today's Arabic learners are:
+- Digital natives
+- Multitaskers
+- Visually oriented
+- Socially connected
+
+## Curriculum Components
+
+### 1. Foundational Skills
+- Arabic script recognition
+- Basic phonetics
+- Essential vocabulary
+
+### 2. Communicative Competence
+- Practical conversations
+- Cultural contexts
+- Situational language use
+
+### 3. Digital Literacy
+- Using Arabic on digital platforms
+- Navigating Arabic digital content
+- Understanding Arabic digital culture
+
+## Assessment Strategies
+
+Modern assessment should include:
+- Portfolio-based evaluation
+- Digital project presentations
+- Collaborative assessments
+- Self-reflection components
+
+## Conclusion
+
+An effective Arabic curriculum must evolve with the times while maintaining respect for the rich tradition and cultural significance of the language.
+    0:{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{}],["$","main",null,{"className":"pt-24","children":["$","$L3",null,{"article":{"title":"Building Effective Arabic Curriculum for Modern Learners","content":"$4","date":"2024-04-20","category":"Curriculum","readingTime":10,"author":"Ade Halim Alfajri","image":"https://images.pexels.com/photos/3184291/pexels-photo-3184291.jpeg?auto=compress&cs=tinysrgb&w=800"}}]}],["$","$L5",null,{}]],[["$","script","script-0",{"src":"/_next/static/chunks/0cqebdtwrio-t.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/0r7_wx-2rcz94.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"fKbmBRVkK-9AHV6053l-G"}
+8:null
